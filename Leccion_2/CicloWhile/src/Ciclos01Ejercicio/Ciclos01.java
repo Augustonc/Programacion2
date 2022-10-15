@@ -13,7 +13,7 @@ public class Ciclos01 {
         // y creamos "b" para almacenar el resultado del cuadrado de ese numero
         int b = 0;
         /*Utilizamos "DO WHILE" ya que ejecuta primero el código
-                   y después consulta la condición. Si usaramos "WHILE" solo
+                   y después consulta la condición. Si usaramos "WHILE" solo,
                     no tendríamos variable para comprobar si hay que entrar
                     al ciclo, ya que el usuario todavía no ingresa el numero*/
         do {
