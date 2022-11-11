@@ -1,6 +1,6 @@
 /*Ejercicio1: Leer un número y mostrar su cuadrado, repetir
     el proceso hasta que se introduzca un número negativo*/
-package Ciclos01Ejercicio;
+package Ciclos01;
 //Importamos la clase Scanner para poder pedirle datos al usuario
 import java.util.Scanner;
 public class Ciclos01 {
